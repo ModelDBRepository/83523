@@ -1,0 +1,5 @@
+load_file("nrngui.hoc")
+
+print "This archive supplies the Kf and Ks mechanisms as mod files"
+print "however there is currently no demonstrated use of these."
+
